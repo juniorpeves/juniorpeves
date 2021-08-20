@@ -1,6 +1,7 @@
-### Hi there 👋
-
-**juniorpeves/juniorpeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bienvenido 👋
+|
+Soy juniorpeves y me gusta programar y compartir mi conocimiento
+|
 
 Here are some ideas to get you started:
 
