@@ -1,15 +1,23 @@
-### Bienvenido 👋
-|
-Soy juniorpeves y me gusta programar y compartir mi conocimiento
-|
+# Bienvenido 👋
 
-Here are some ideas to get you started:
+## Mi nombre es juniorpeves, me gusta programar y compartir mi conocimiento
+***Actualmente estoy completando la carrera de python en Platzi.***
+*Soy de Lima-Perú, puedes contactarme para dudas o ayuda.* 
+>Esta es una sita para entender md
+---
+Esto es un separador :D
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* Tengo conocimientos en front-end
+* También se mucho de back-end
+
+1.Pegando porciones de codigo
+
+    console.log('hello world')
+
+2.Para bloques de código
+
+``` python
+    if __name__ == "__main__":
+	unittest.main(verbosity = 2, testRunner = HTMLTestRunner(output = 'reportes', report_name = 'hello-world-report'))
+```
