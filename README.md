@@ -21,3 +21,5 @@ ___
     if __name__ == "__main__":
 	main()
 ```
+
+![notion](icons8-notion-48.png ) [Enlace de mi notion](https://three-tugboat-95b.notion.site/Mi-notion-by-892428120b5d4878bf436ac23bf8a632 "Mi notion")
