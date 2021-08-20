@@ -8,8 +8,8 @@
 Esto es un separador :D
 ___
 
-* Tengo conocimientos en front-end
-* También se mucho de back-end
+:blue_book: Tengo conocimientos en front-end
+:orange_book: También se mucho de back-end
 
 1.Pegando porciones de codigo
 
