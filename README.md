@@ -25,7 +25,3 @@ ___
 ```
 
 -->
-
-<div class="alert alert-block alert-danger">
-JEJEJEJJ
-</div>
