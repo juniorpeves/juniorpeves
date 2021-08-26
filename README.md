@@ -4,7 +4,7 @@
 ***Actualmente estoy completando la carrera de python en Platzi.***
 *Soy de Lima-Perú, puedes contactarme para dudas o ayuda.* 
 
-:blue_book: Tengo conocimientos en front-end :orange_book: También se mucho de back-end
+:blue_book: Tengo conocimientos en front-end :orange_book: También se de back-end
 
 1.Pegando porciones de codigo
 
