@@ -6,7 +6,7 @@
 
 :blue_book: Tengo conocimientos en front-end :orange_book: También se de back-end
 
-![notion](icons8-notion-48.png ) [Enlace de mi notion](https://three-tugboat-95b.notion.site/Mi-notion-by-892428120b5d4878bf436ac23bf8a632 "Mi notion")
+![notion](icons8-notion-48.png ) [Enlace de mi notion](https://juniorpeves.notion.site/juniorpeves-892428120b5d4878bf436ac23bf8a632 "Mi notion")
 
 <!--
 >Esta es una sita para entender md
