@@ -17,12 +17,3 @@
 ---
 Esto es un separador :D
 ___
-
-2.Para bloques de código
-
-``` python
-    if __name__ == "__main__":
-	main()
-```
-
--->
